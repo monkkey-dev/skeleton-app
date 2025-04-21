@@ -64,10 +64,6 @@ If you've made local changes you'd like to share:
 - Push them to your fork  
 - Open a Pull Request so others can review and merge your work into the main repo  
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Feel free to reach out if you have questions or ideas! Let's build privacy-first messaging together. 🛡️
